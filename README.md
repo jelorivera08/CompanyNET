@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 To start the client just type this in the command line (make sure you are in the root directory of the project)
 
-STEPS
-1 - npm install
-2 - npm start
+STEPS TO LAUNCH APP:
 
-then type 'http://localhost:3000/' in the browser and you are ready to go.
-
+1. go to root directory
+2. type 'npm install' in the command line
+3. type 'npm start' in the command line
+4. go to 'http://localhost:3000/' in the browser
